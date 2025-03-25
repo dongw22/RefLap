@@ -14,7 +14,7 @@ pip install einops gdown addict future lmdb numpy pyyaml requests scipy yapf lpi
 
 
 ### Pre-trained Model
-- [Pre-trained Model for NTIRE 2025 Reflection Removal Challenge](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/dongw22_mcmaster_ca/EfCfBTlMiIhJhbQR36xZfFwB1q-o-Q8vQ7FAimhnib2GtQ?e=6savpU).
+- [Pre-trained Model for NTIRE 2025 Single Image Reflection Removal in the Wild Challenge](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/dongw22_mcmaster_ca/EfCfBTlMiIhJhbQR36xZfFwB1q-o-Q8vQ7FAimhnib2GtQ?e=6savpU).
 
 ### Our Submission on Test Sever
 - [Our Test Output](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/EtKaYv63dxpLkma8trJ3rFEBSjL2df48qosXepsxt0yryA?e=Md0Z2J).
