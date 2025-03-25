@@ -23,7 +23,7 @@ pip install einops gdown addict future lmdb numpy pyyaml requests scipy yapf lpi
 Download above saved models and put it into the folder ./Enhancement/weights. To test the model, you need to specify the input image path (`args.input_dir`) and pre-trained model path (`args.weights`) in `./Enhancement/test.py`. Then run
 ```bash
 cd Enhancement
-python Enhancement/test.py 
+python test.py 
 ```
 You can check the output in `test-results-ntire25`.
 
