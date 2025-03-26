@@ -12,6 +12,11 @@ pip install matplotlib scikit-learn scikit-image opencv-python yacs joblib natso
 pip install einops gdown addict future lmdb numpy pyyaml requests scipy yapf lpips thop timm kornia
 ```
 
+3. Install BasicSR
+```
+python setup.py develop --no_cuda_ext
+```
+
 
 ### Pre-trained Model
 - [Pre-trained Model for NTIRE 2025 Single Image Reflection Removal in the Wild Challenge](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/dongw22_mcmaster_ca/EfCfBTlMiIhJhbQR36xZfFwB1q-o-Q8vQ7FAimhnib2GtQ?e=6savpU).
